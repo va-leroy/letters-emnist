@@ -1,5 +1,7 @@
-![](https://img.shields.io/badge/Python-3.10.11-blue.svg) ![](https://img.shields.io/badge/TensorFlow-2.11.0-orange.svg) ![](https://img.shields.io/badge/Keras-2.11.0-red.svg) ![](https://img.shields.io/badge/License-MIT-blue.svg) ![](https://img.shields.io/badge/Build-Passing-limegreen.svg)
-
+![](https://img.shields.io/badge/Python-3.10.11-blue.svg)
+![](https://img.shields.io/badge/TensorFlow-2.11.0-orange.svg)
+![](https://img.shields.io/badge/Keras-2.11.0-red.svg)
+![](https://img.shields.io/badge/License-MIT-blue.svg)
 
 # letters-emnist
 
